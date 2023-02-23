@@ -21,7 +21,7 @@ spec:
       serviceAccountName: jenkins-admin
       containers:
       - name: slave-jenkins-ubuntu
-        image: esraa-abdelaziz/esraa-slave-img
+        image: gcr.io/esraa-abdelaziz/esraa-slave-img
         imagePullPolicy: Always
         ports:
         - containerPort: 22
