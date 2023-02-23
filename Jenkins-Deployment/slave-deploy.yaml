@@ -21,7 +21,7 @@ spec:
       serviceAccountName: jenkins-admin
       containers:
       - name: slave-jenkins-ubuntu
-        image: kareemelkasaby/jenkins-slave-java-11
+        image: esraa-abdelaziz/esraa-slave-img
         imagePullPolicy: Always
         ports:
         - containerPort: 22
