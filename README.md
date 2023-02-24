@@ -98,13 +98,13 @@ Deploy an application on GKE using CI/CD Jenkins Pipeline using the following st
     
  -Then build my-image and push it to gcr to use it in slave-pod  
     
-    <img src="ScreenShots/build-img.png" width=400 >
+   <img src="ScreenShots/build-img.png" width=400 >
     
-    <img src="ScreenShots/push-img.png" width=400 >
+   <img src="ScreenShots/push-img.png" width=400 >
     
-    <img src="ScreenShots/finish-push.png" width=400 >
+   <img src="ScreenShots/finish-push.png" width=400 >
     
-    <img src="ScreenShots/img-gcr.png" width=400 >
+   <img src="ScreenShots/img-gcr.png" width=400 >
     
 9-Deploy jenkins on GKE Cluster
     
